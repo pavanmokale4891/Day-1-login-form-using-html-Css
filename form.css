@@ -1,0 +1,63 @@
+h1{
+    border: 1px solid black;
+    width: 440px;
+    background-image: linear-gradient(grey,white 30px );
+    box-shadow: 2px 3px 1px rgba(63, 63, 63, 0.632);
+    backface-visibility: 40%px;
+    text-align: center;
+    color: rgb(39, 41, 41);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: capitalize;
+    text-decoration: solid;
+    margin-left: 13px;
+    padding-bottom: 3px;
+    font-size:27px ;
+   
+}
+
+#details {
+    border: 5px double gold;
+    box-shadow: 2px 3px 1px rgba(63, 63, 63, 0.632);;
+    width: 390px;
+    border-radius: 10px;
+    padding: 30px;
+    background-image: url("baby\ shower2.jpg");
+    margin-left: 13px;
+    
+    
+    
+   
+}
+#details input{
+    border: 1.5px solid white;
+    text-shadow: 1px 1px 2px rgba(63, 63, 63, 0.632);;
+    margin-right: 3px;
+    width: 180px;
+}
+#password input{
+    border: 1.5px solid white(52, 52, 52);
+    width: 180px;
+    margin-top: 9px;
+    
+}
+#label input{
+    border: 1.4px solid #ffffff;
+    margin-right: 90px;
+    text-align:justify;
+
+ 
+}
+#button1 button{
+    border: 0px solid rgba(0, 0, 0, 0.03);
+    width: 180px;
+    color: blue;
+    text-shadow: 1px 2px 1px rgba(37, 37, 68, 0.557);
+    background-color: silver;
+    box-shadow: 2px 4px rgba(105, 105, 105, 0.872);
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 100px;
+}
+
+
